@@ -1,10 +1,10 @@
 # 📘 README – Dockerisation d’OpenMAINT
 
 ## 🚀 Introduction
-Ce projet permet de **dockeriser OpenMAINT** (solution de gestion de patrimoine et maintenance basée sur CMDBuild) sur une machine virtuelle **Windows 10**.  
+Ce projet permet de **dockeriser OpenMAINT** (solution de gestion de patrimoine et maintenance basée sur CMDBuild).  
 Il utilise :  
 - **PostgreSQL + PostGIS** comme base de données  
-- **Tomcat 9 + Java 11** pour héberger l’application web OpenMAINT  
+- **Tomcat 9 + Java 17** pour héberger l’application web OpenMAINT  
 - **Docker Compose** pour orchestrer le tout  
 
 ---
